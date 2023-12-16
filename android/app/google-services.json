@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "985812166609",
+    "project_id": "grsaver-f7652",
+    "storage_bucket": "grsaver-f7652.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985812166609:android:00c9c36017ef63de0a22f0",
+        "android_client_info": {
+          "package_name": "com.example.gr_saver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMGMZlA_gJIlM-0clw9wVFBKHJsxnWa6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
